@@ -1,0 +1,12 @@
+print ("Hello, world!")
+print ("welcome to python programming")
+print ("This is a simple python program")
+print ("python is a great language for beginners")
+print ("let us learn python together")
+print ("python is used in many fields such as web development, data science and artificial intelligence")
+print ("python has a large and supportive community")
+print("python is a versatile and powerful programming language")
+print ("thank you for learning python with me")
+
+salary = float(input("What is your salary ?"))
+print (f"Your salary is {salary}")
