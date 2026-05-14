@@ -10,19 +10,19 @@ for letter in  "Ayub_Buya":
 
 #Dictionaries
 
-person=  {
+myself=  {
     "name" : "Ayub",
     "age" : "20",
     "gender":"male",
-    "sex":"staright"
+    "sex":"staright" #"as he claims"
 }
 
-for key, values in person.items():
+for key, values in myself.items():
     print (key ,"-->", values)
 
-
+#A for loop in a list
 fruits = ["apple", "banana", "mango"]
-#for index, fruit in fruits enumerate (fruits)
-#print (index, fruit)
+for index, fruit in fruits enumerate (fruits)
+print (index, fruit)
 
 
