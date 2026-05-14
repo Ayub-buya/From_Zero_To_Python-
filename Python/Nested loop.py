@@ -11,14 +11,15 @@ for i  in range(3,6):
 
 #patern building
 for i in range (4):
-    for j in range (4):
+    for j in range (5):
         print ("*" ,end= " ")
     print()
 
 #Rigt angled triangle
 for i in range(1,6):
     for j in range(i):
-     print("*", end = " " ) 
+     print("*", end = " " ) # 
+
 
 
 
